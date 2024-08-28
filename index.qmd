@@ -1,6 +1,6 @@
 <!-- NOTE: do not re-name this file!  It has to be called index.qmd -->
 
-# Welcome! {.unnumbered}
+# blahbalbblab! {.unnumbered}
 
 ::: callout-note
 Note to lab members: this document is a work in progress and may change.
