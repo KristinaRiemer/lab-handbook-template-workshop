@@ -12,6 +12,8 @@ You may wish to edit this to add other best practices relevant to your group's l
 
 ## Research Compendia
 
+### woow oooo!
+
 A [research compendium](https://book.the-turing-way.org/reproducible-research/compendia.html) is a collection of all the files (data, metadata, notes, code, manuscripts, etc.) associated with a research project.
 Even before the first data point is collected, some thought should be put into how you'll organize your research compendium.
 This includes things like:
