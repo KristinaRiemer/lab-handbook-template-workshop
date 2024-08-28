@@ -1,4 +1,4 @@
-# group-handbook-template
+# Workshop test handbook
 
 <!-- badges: start -->
 
